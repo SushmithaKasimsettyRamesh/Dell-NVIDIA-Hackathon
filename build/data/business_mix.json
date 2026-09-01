@@ -1,0 +1,310 @@
+{
+ "national": {
+  "source": "US Census CBP 2022, all counties",
+  "total_establishments": 8287326,
+  "sectors": [
+   {
+    "sector": "Retail",
+    "share": 0.1262,
+    "establishments": 1045866,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Health Care",
+    "share": 0.1178,
+    "establishments": 976340,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Professional Svcs",
+    "share": 0.1175,
+    "establishments": 974150,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Construction",
+    "share": 0.0966,
+    "establishments": 800556,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Other Services",
+    "share": 0.0963,
+    "establishments": 797799,
+    "cash_intensity": "HIGH"
+   },
+   {
+    "sector": "Accommodation & Food",
+    "share": 0.0931,
+    "establishments": 771743,
+    "cash_intensity": "HIGH"
+   },
+   {
+    "sector": "Finance & Insurance",
+    "share": 0.058,
+    "establishments": 480408,
+    "cash_intensity": "SPECIAL"
+   },
+   {
+    "sector": "Real Estate",
+    "share": 0.0563,
+    "establishments": 466193,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Admin/Waste",
+    "share": 0.0543,
+    "establishments": 450138,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Wholesale",
+    "share": 0.0469,
+    "establishments": 388456,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Transport/Warehouse",
+    "share": 0.0355,
+    "establishments": 294212,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Manufacturing",
+    "share": 0.0344,
+    "establishments": 285197,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Arts/Rec",
+    "share": 0.0196,
+    "establishments": 162218,
+    "cash_intensity": "HIGH"
+   },
+   {
+    "sector": "Information",
+    "share": 0.0193,
+    "establishments": 160321,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Education",
+    "share": 0.0137,
+    "establishments": 113804,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Mgmt of Companies",
+    "share": 0.006,
+    "establishments": 49974,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Agriculture",
+    "share": 0.0027,
+    "establishments": 22163,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Mining",
+    "share": 0.0026,
+    "establishments": 21735,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Utilities",
+    "share": 0.0023,
+    "establishments": 18955,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Unclassified",
+    "share": 0.0009,
+    "establishments": 7098,
+    "cash_intensity": "LOW"
+   }
+  ]
+ },
+ "bank_footprint": {
+  "name": "Cincinnati tri-state (OH/KY/IN)",
+  "source": "US Census CBP 2022",
+  "total_establishments": 46091,
+  "states": [
+   "OH",
+   "KY",
+   "IN"
+  ],
+  "counties": [
+   {
+    "fips": "39061",
+    "state": "OH",
+    "name": "Hamilton (Cincinnati)",
+    "establishments": 21080
+   },
+   {
+    "fips": "39017",
+    "state": "OH",
+    "name": "Butler",
+    "establishments": 7431
+   },
+   {
+    "fips": "39165",
+    "state": "OH",
+    "name": "Warren",
+    "establishments": 4740
+   },
+   {
+    "fips": "39025",
+    "state": "OH",
+    "name": "Clermont",
+    "establishments": 3708
+   },
+   {
+    "fips": "21117",
+    "state": "KY",
+    "name": "Kenton",
+    "establishments": 3245
+   },
+   {
+    "fips": "21015",
+    "state": "KY",
+    "name": "Boone",
+    "establishments": 3176
+   },
+   {
+    "fips": "21037",
+    "state": "KY",
+    "name": "Campbell",
+    "establishments": 1733
+   },
+   {
+    "fips": "18029",
+    "state": "IN",
+    "name": "Dearborn",
+    "establishments": 978
+   }
+  ],
+  "sectors": [
+   {
+    "sector": "Retail",
+    "share": 0.1271,
+    "establishments": 5859,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Health Care",
+    "share": 0.1159,
+    "establishments": 5340,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Professional Svcs",
+    "share": 0.1042,
+    "establishments": 4804,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Accommodation & Food",
+    "share": 0.1003,
+    "establishments": 4625,
+    "cash_intensity": "HIGH"
+   },
+   {
+    "sector": "Other Services",
+    "share": 0.0984,
+    "establishments": 4534,
+    "cash_intensity": "HIGH"
+   },
+   {
+    "sector": "Construction",
+    "share": 0.085,
+    "establishments": 3918,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Finance & Insurance",
+    "share": 0.0639,
+    "establishments": 2945,
+    "cash_intensity": "SPECIAL"
+   },
+   {
+    "sector": "Wholesale",
+    "share": 0.055,
+    "establishments": 2535,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Admin/Waste",
+    "share": 0.0549,
+    "establishments": 2532,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Real Estate",
+    "share": 0.0525,
+    "establishments": 2419,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Manufacturing",
+    "share": 0.0448,
+    "establishments": 2063,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Transport/Warehouse",
+    "share": 0.0351,
+    "establishments": 1616,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Information",
+    "share": 0.0173,
+    "establishments": 798,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Arts/Rec",
+    "share": 0.0166,
+    "establishments": 765,
+    "cash_intensity": "HIGH"
+   },
+   {
+    "sector": "Education",
+    "share": 0.0133,
+    "establishments": 612,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Mgmt of Companies",
+    "share": 0.0114,
+    "establishments": 525,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Utilities",
+    "share": 0.0031,
+    "establishments": 145,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Mining",
+    "share": 0.0005,
+    "establishments": 23,
+    "cash_intensity": "LOW"
+   },
+   {
+    "sector": "Agriculture",
+    "share": 0.0005,
+    "establishments": 21,
+    "cash_intensity": "MEDIUM"
+   },
+   {
+    "sector": "Unclassified",
+    "share": 0.0003,
+    "establishments": 12,
+    "cash_intensity": "LOW"
+   }
+  ]
+ }
+}
